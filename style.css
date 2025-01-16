@@ -105,6 +105,14 @@ button {
     font-family: 'Inter', sans-serif;
 }
 
+button {
+    background-color:#041832;
+    margin-top: 10px;
+    width: 25%;
+    height: 40px;
+    border-radius: 15%;
+}
+
 .texto__paragrafo {
     font-size: 32px;
     font-weight: 400;
